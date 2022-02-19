@@ -10,4 +10,4 @@ Allow: /search
 
 Allow: /
 
-Sitemap: https://lrtcityjatibening-gatewaypark.com/feeds/posts/default?orderby=UPDATED
+Sitemap: https://www.vasaka-solterra.com/feeds/posts/default?orderby=UPDATED
